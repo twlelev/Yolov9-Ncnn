@@ -4,7 +4,7 @@ The yolov9 object detection
 
 ## model
 [yolov9-c-converted-sim.bin](./model/yolov9-c-converted-sim.bin)  
-[yolov9-c-converted-sim.xml](./model/yolov9-c-converted-sim.xml)
+[yolov9-c-converted-sim.param](./model/yolov9-c-converted-sim.param)
 
 ## scrennshot
 ![](./yolov9-ncnn/result/image.jpg)
